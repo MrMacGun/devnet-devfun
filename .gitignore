@@ -1,0 +1,13 @@
+testdrive/bin/python
+testdrive/bin/python3
+testdrive/bin/python3.12
+venv/bin/python
+venv/bin/python3
+venv/bin/python3.12
+venv/lib/python3.12/site-packages/pip-24.0.dist-info/AUTHORS.txt
+venv/lib/python3.12/site-packages/pip-24.0.dist-info/entry_points.txt
+venv/lib/python3.12/site-packages/pip-24.0.dist-info/METADATA
+venv/lib/python3.12/site-packages/pip-24.0.dist-info/LICENSE.txt
+venv/lib/python3.12/site-packages/pip-24.0.dist-info/RECORD
+venv/lib/python3.12/site-packages/pip-24.0.dist-info/top_level.txt
+venv/lib/python3.12/site-packages/pip-24.0.dist-info/WHEEL
